@@ -68,6 +68,7 @@ describe 'monit', :type => :class do
         :lsbdistid       => 'Debian',
         :kernel          => 'Linux',
         :operatingsystem => 'Debian',
+        :lsbdistcodename => 'jessie',
       }
     end
 
