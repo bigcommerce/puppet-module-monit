@@ -1,6 +1,6 @@
 {
   "name": "bigcommerce-monit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Bigcommerce - Technical Operations <techops@bigcommerce.com>",
   "summary": "BigCommerce Monit Module - Manages monit on the BigCommerce platform",
   "source": "https://github.com/bigcommerce/puppet-module-monit",
@@ -21,7 +21,7 @@
   "dependencies": [
     {
       "name": "puppetlabs/stdlib",
-      "version_requirement": "< 5.0.0"
+      "version_requirement": "< 6.0.0"
     }
   ]
 }
